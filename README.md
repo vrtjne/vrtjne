@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vrtjne 😊
-- 👀 I’m interested in training to be a Software Engineer! 📚
+- 👀 I’m in training to be a junior Software Engineer! 📚
 - 🌱 I’m currently learning python, HTML, CSS, Javascript and React🎓
 - 💞️ I’m looking to work on entry level projects to apply what I've learnt so far
 
